@@ -10,7 +10,7 @@ sudo adduser --system --no-create-home sysd
 Give your secret user a password:
 
 Your solution command here
-sudo passws sysd
+sudo passwd sysd
 
 
 Give your secret user a system UID < 1000:
