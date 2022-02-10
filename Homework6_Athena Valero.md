@@ -22,7 +22,7 @@ sudo usermod -u 888 sysd
 Give your secret user the same GID:
 
 Your solution command here
-sudo groupmod -g 888 sysd
+sudo usermod -g 888 sysd
 
 
 Give your secret user full sudo access without the need for a password:
