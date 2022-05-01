@@ -66,33 +66,33 @@ You've been provided full access to the network and are getting ping responses f
 
 1. Perform a service and version scan using Nmap to determine which services are up and running:
 
-- Run the Nmap command that performs a service and version scan against the target.
-  > Answer:
+  - Run the Nmap command that performs a service and version scan against the target.
+    > Answer:
 
 
 2. From the previous step, we see that the Icecast service is running. Let's start by attacking that service. Search for any Icecast exploits:
-- Run the SearchSploit commands to show available Icecast exploits.
+  - Run the SearchSploit commands to show available Icecast exploits.
 
-  > Answer:
+    > Answer:
 
 
 3. Now that we know which exploits are available to us, let's start Metasploit:
-- Run the command that starts Metasploit:
+  - Run the command that starts Metasploit:
 
-  > Answer:
+    > Answer:
 
 
 4. Search for the Icecast module and load it for use.
-- Run the command to search for the Icecast module:
+  - Run the command to search for the Icecast module:
 
-  > Answer:
+    > Answer:
 
 
 
-5. Run the command to use the Icecast module:
-  **Note:** Instead of copying the entire path to the module, you can use the number in front of it.
+  - Run the command to use the Icecast module:
+   **Note:** Instead of copying the entire path to the module, you can use the number in front of it.
 
-  > Answer:
+    > Answer:
 
 
 
@@ -101,38 +101,38 @@ You've been provided full access to the network and are getting ping responses f
 5. Set the RHOST to the target machine.
 
 
-- Run the command that sets the RHOST:
+  - Run the command that sets the RHOST:
 
-  > Answer:
+    > Answer:
 
 
 
 
 
 6. Run the Icecast exploit.
-- Run the command that runs the Icecast exploit.
+  - Run the command that runs the Icecast exploit.
 
-  > Answer:
+    > Answer:
 
 
 
-- Run the command that performs a search for the secretfile.txt on the target.
+  - Run the command that performs a search for the secretfile.txt on the target.
 
-  > Answer:
+    > Answer:
 
 
 7. You should now have a Meterpreter session open.
 
 
-- Run the command to performs a search for the recipe.txt on the target:
+  - Run the command to performs a search for the recipe.txt on the target:
 
-  > Answer:
+   > Answer:
 
 
 
-- **Bonus:** Run the command that exfiltrates the recipe*.txt file:
+  - **Bonus:** Run the command that exfiltrates the recipe*.txt file:
 
-  > Answer:
+   > Answer:
 
 
 
@@ -141,7 +141,7 @@ You've been provided full access to the network and are getting ping responses f
 8. You can also use Meterpreter's local exploit suggester to find possible exploits.
 
 
-- **Note:** The exploit suggester is just that: a suggestion. Keep in mind that the listed suggestions may not include all available exploits.
+  - **Note:** The exploit suggester is just that: a suggestion. Keep in mind that the listed suggestions may not include all available exploits.
 
 
 
