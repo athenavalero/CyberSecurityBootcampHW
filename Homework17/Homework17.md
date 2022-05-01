@@ -2,13 +2,9 @@ Homework: Penetration Test Engagement
 In this activity, you will play the role of an independent penetration tester hired by GoodCorp Inc. to perform security tests against their CEO’s workstation.
 
 
-The CEO claims to have passwords that are long and complex and therefore unhackable.
-
-
-You are tasked with gaining access to the CEO's computer and using a Meterpreter session to search for two files that contain the strings recipe and seceretfile.
-
-
-The deliverable for this engagement will be in the form of a report labeled Report.docx.
+- The CEO claims to have passwords that are long and complex and therefore unhackable.
+- You are tasked with gaining access to the CEO's computer and using a Meterpreter session to search for two files that contain the strings recipe and seceretfile.
+- The deliverable for this engagement will be in the form of a report labeled Report.docx.
 
 
 
