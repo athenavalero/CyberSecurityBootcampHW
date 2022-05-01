@@ -74,7 +74,7 @@ You've been provided full access to the network and are getting ping responses f
 2. From the previous step, we see that the Icecast service is running. Let's start by attacking that service. Search for any Icecast exploits:
   - Run the SearchSploit commands to show available Icecast exploits.
 
-    > Answer: searchsploit Icecast
+    > Answer: searchsploit icecast
 
 
 3. Now that we know which exploits are available to us, let's start Metasploit:
