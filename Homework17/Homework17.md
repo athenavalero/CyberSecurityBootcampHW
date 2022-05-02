@@ -133,7 +133,7 @@ You've been provided full access to the network and are getting ping responses f
 
   - **Bonus:** Run the command that exfiltrates the recipe*.txt file:
 
-    > Answer: download c:\Users\IEUser\Documents\Drinks.recipe.txt
+    > Answer: download C:\Users\IEUser\Documents\Drinks.recipe.txt
 
 
 
