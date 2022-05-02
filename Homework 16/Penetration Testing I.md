@@ -48,7 +48,12 @@ Enter the IP address for demo.testfire.net into Domain Dossier and answer the fo
  
   > marketplace install xssed
 - Set the source to demo.testfire.net.
+
+  > options set SOURCE demo.testfire.net
+  
 - Run the module.
+
+  > run
 
 Is Altoro Mutual vulnerable to XSS: 
 
