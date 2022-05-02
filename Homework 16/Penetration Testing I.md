@@ -27,7 +27,7 @@ Enter the IP address for demo.testfire.net into Domain Dossier and answer the fo
 - What open ports and running services did Shodan find:
 
 
-### Step 4: Recon-ng
+#### Step 4: Recon-ng
 
 - Install the Recon module xssed.
 - Set the source to demo.testfire.net.
