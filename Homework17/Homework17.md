@@ -119,7 +119,7 @@ You've been provided full access to the network and are getting ping responses f
 
   - Run the command that performs a search for the secretfile.txt on the target.
 
-    > Answer: search -f secretfile.txt
+    > Answer: search -f *secretfile.txt
 
 
 7. You should now have a Meterpreter session open.
@@ -127,7 +127,7 @@ You've been provided full access to the network and are getting ping responses f
 
   - Run the command to performs a search for the recipe.txt on the target:
 
-    > Answer: search -f recipe.txt
+    > Answer: search -f *recipe.txt
 
 
 
