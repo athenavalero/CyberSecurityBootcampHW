@@ -113,7 +113,7 @@ You've been provided full access to the network and are getting ping responses f
 6. Run the Icecast exploit.
   - Run the command that runs the Icecast exploit.
 
-    > Answer: run
+    > Answer: exploit
 
 
 
