@@ -47,6 +47,7 @@ Enter the IP address for demo.testfire.net into Domain Dossier and answer the fo
   > - Open Ports: 80, 443, 8080
   > - Services: Apache Tomcat/Coyote JSP Engine (1.1)
 
+ ![Shodan](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2016/HW16_9.PNG)
 
 #### Step 4: Recon-ng
 
