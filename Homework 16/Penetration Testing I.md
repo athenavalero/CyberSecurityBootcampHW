@@ -1,12 +1,12 @@
 ## Week 16 Homework Submission File: Penetration Testing 1
 
-### Step 1: Google Dorking
+#### Step 1: Google Dorking
 - Using Google, can you identify who the Chief Executive Officer of Altoro Mutual is:
 - How can this information be helpful to an attacker:
 
 
 
-### Step 2: DNS and Domain Discovery
+#### Step 2: DNS and Domain Discovery
 Enter the IP address for demo.testfire.net into Domain Dossier and answer the following questions based on the results:
 
 1. Where is the company located:
@@ -22,7 +22,7 @@ Enter the IP address for demo.testfire.net into Domain Dossier and answer the fo
 
 
 
-### Step 3: Shodan
+#### Step 3: Shodan
 
 - What open ports and running services did Shodan find:
 
@@ -35,7 +35,7 @@ Enter the IP address for demo.testfire.net into Domain Dossier and answer the fo
 
 Is Altoro Mutual vulnerable to XSS:
 
-### Step 5: Zenmap
+#### Step 5: Zenmap
 Your client has asked that you help identify any vulnerabilities with their file-sharing server. Using the Metasploitable machine to act as your client's server, complete the following:
 
 
