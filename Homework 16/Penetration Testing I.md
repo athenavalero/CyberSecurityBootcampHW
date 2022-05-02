@@ -6,7 +6,7 @@
 
 
 
-## Step 2: DNS and Domain Discovery
+### Step 2: DNS and Domain Discovery
 Enter the IP address for demo.testfire.net into Domain Dossier and answer the following questions based on the results:
 
 1. Where is the company located:
@@ -22,12 +22,12 @@ Enter the IP address for demo.testfire.net into Domain Dossier and answer the fo
 
 
 
-## Step 3: Shodan
+### Step 3: Shodan
 
 - What open ports and running services did Shodan find:
 
 
-## Step 4: Recon-ng
+### Step 4: Recon-ng
 
 - Install the Recon module xssed.
 - Set the source to demo.testfire.net.
@@ -35,7 +35,7 @@ Enter the IP address for demo.testfire.net into Domain Dossier and answer the fo
 
 Is Altoro Mutual vulnerable to XSS:
 
-## Step 5: Zenmap
+### Step 5: Zenmap
 Your client has asked that you help identify any vulnerabilities with their file-sharing server. Using the Metasploitable machine to act as your client's server, complete the following:
 
 
