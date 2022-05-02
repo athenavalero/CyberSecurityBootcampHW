@@ -53,8 +53,6 @@ Your client has asked that you help identify any vulnerabilities with their file
 
  1. What is the vulnerability:
 
-
  2. Why is it dangerous:
-
 
  3. What mitigation strategies can you recommendations for the client to protect their server:
