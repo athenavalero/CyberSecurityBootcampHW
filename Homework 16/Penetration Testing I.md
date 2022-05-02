@@ -65,25 +65,31 @@ Your client has asked that you help identify any vulnerabilities with their file
 
 - Command for Zenmap to run a service scan against the Metasploitable machine:
 
-  > nmap -T4 -A -v192.168.0.10
+  > nmap-T4-A-v 192.168.0.10
 
 - Bonus command to output results into a new text file named zenmapscan.txt:
  
   
 
-- Zenmap vulnerability script command:
+- Use Zenmap's scripting engine to identify a vulnerability associated with the service running on the 139/445 port from your previous scan. Zenmap vulnerability script command:
  
-  > nmap --script samba-vuln-cve-2012-1182 192.168.0.10
+  > nmap--script ftp-vsftpd-backdoor 192.168.0.10
 
 - Once you have identified this vulnerability, answer the following questions for your client:
 
 
  1. What is the vulnerability:
  
-   > SMB 3 (Samba)
+     > SMB Listening in on Port
 
 
  2. Why is it dangerous:
  
+    > Since ports 139 and 445 are SMB ports, these ports being open can be vulnerable to exploit by port listening. 
 
- 4. What mitigation strategies can you recommendations for the client to protect their server:
+ 3. What mitigation strategies can you recommendations for the client to protect their server:
+  
+    > - Ensure that systems are up-to-date
+    > - Use Firewall or VPN
+    > - Make sure that there is redundancy (back-up of files) in case of attack
+   
