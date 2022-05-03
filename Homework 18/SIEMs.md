@@ -107,7 +107,7 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 
     Submit a screenshot of your report and a screenshot of proof that the alert has been created.
     
-    ![nessusalert](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_7.png)
+    ![nessusalert](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_7.PNG)
     
     ![nessusalert2](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_8.PNG)
     
