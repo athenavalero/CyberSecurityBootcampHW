@@ -136,7 +136,7 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 
 2. When did the brute force attack occur?
 
-      > While it appears that at around 8am on February 21, 2020, there is somewhat of a higher count of activity (34 events) than usual, it is not as a stronger indicator of an attack as the 124 events that happened at 9am on the same day. It ended around 1pm also on the same day (123 events), making the attack last for about 4 hours. 
+      > While it appears that at around 8am on February 21, 2020, there is somewhat of a higher count of activity (34 events) than usual (10-23), it is not as a stronger indicator of an attack as the 124 events that happened at 9am on the same day. It ended around 1pm also on the same day (123 events), making the attack last for about 4 hours. 
 
   - Hints:
 
