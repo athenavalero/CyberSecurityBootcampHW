@@ -101,7 +101,7 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
   - The database server IP is 10.11.36.23.
   - The field that identifies the level of vulnerabilities is severity.
 
-    ![nessus](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_6.png)
+    ![nessus](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_6.PNG)
 
 3. Build an alert that monitors every day to see if this server has any critical vulnerabilities. If a vulnerability exists, have an alert emailed to soc@vandalay.com.
 
@@ -109,9 +109,9 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
     
     ![nessusalert](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_7.png)
     
-    ![nessusalert2](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_8.png)
+    ![nessusalert2](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_8.PNG)
     
-    ![nessusalert3](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_9.png)
+    ![nessusalert3](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_9.PNG)
 
 #### Step 3: Drawing the (base)line
 **Background**:  A Vandaly server is also experiencing brute force attacks into their administrator account. Management would like you to set up monitoring to notify the SOC team if a brute force attack occurs again.
