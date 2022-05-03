@@ -1,4 +1,4 @@
-## Unit 18 Homework: Lets go Splunking!
+## Unit 18 Homework: Let's go Splunking!
 
 #### Scenario
 You have just been hired as an SOC Analyst by Vandalay Industries, an importing and exporting company.
@@ -71,7 +71,12 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 4. Answer the following questions:
 
    - Based on the report created, what is the approximate date and time of the attack?
+   
+        > Historically, upload speeds are significantly lower than download speeds. From the visualization graphs included in this report, we can see that at approximately 2:30PM on February 23, 2020 to about 11:30PM on the same day, the download speeds were lower than usual and has even almost reached the low levels of upload speeds. From the Speed Test table, we can also see that ratio of download speed against upload speed was at its highest of 0.233 at the same time which seems consistent with our visualization chart. This supports the fact that the attack started at time. 
+        
    - How long did it take your systems to recover?
+   
+        > Since the download levels seemed to have normalized around 11:30pm, it appears that it took about 9 hours for the systems to recover.
 
     Submit a screen shot of your report and the answer to the questions above.
     
