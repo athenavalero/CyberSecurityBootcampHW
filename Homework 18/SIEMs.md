@@ -147,11 +147,11 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 
 Submit the answers to the questions about the brute force timing, baseline and threshold. Additionally, provide a screenshot as proof that the alert has been created.
 
-    ![bruteforce2](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_11.PNG)
+   ![bruteforce2](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_11.PNG)
     
-    ![bruteforce3](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_12.PNG)
+   ![bruteforce3](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_12.PNG)
     
-    ![bruteforce4](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_13.PNG)
+   ![bruteforce4](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_13.PNG)
     
 #### Your Submission
 In a word document, provide the following:
