@@ -102,6 +102,10 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
   - The field that identifies the level of vulnerabilities is severity.
 
     ![nessus](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_6.PNG)
+    
+    ![nessusreport](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_6_2.PNG)
+    
+    ![nessusreport2](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_6_3.PNG)
 
 3. Build an alert that monitors every day to see if this server has any critical vulnerabilities. If a vulnerability exists, have an alert emailed to soc@vandalay.com.
 
