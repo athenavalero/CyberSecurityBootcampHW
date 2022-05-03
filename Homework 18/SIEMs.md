@@ -53,7 +53,7 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 
    - Hint: The format for creating a ratio is: | eval new_field_name = 'fieldA'  / 'fieldB'
 
-
+    ![ratio](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_1.PNG)
 
 
 3. Create a report using the Splunk's table command to display the following fields in a statistics report:
@@ -66,16 +66,20 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 
    Hint: Use the following format when for the table command: | table fieldA  fieldB fieldC
 
+    ![table](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_2.PNG)
 
 4. Answer the following questions:
 
    - Based on the report created, what is the approximate date and time of the attack?
    - How long did it take your systems to recover?
 
-
-
-Submit a screen shot of your report and the answer to the questions above.
-
+    Submit a screen shot of your report and the answer to the questions above.
+    
+    ![attack](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_4.png)
+    
+    ![attack2](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_5_1.png)
+    
+    
 #### Step 2: Are We Vulnerable?
 
 **Background**:  Due to the frequency of attacks, your manager needs to be sure that sensitive customer data on their servers is not vulnerable. Since Vandalay uses Nessus vulnerability scanners, you have pulled the last 24 hours of scans to see if there are any critical vulnerabilities.
