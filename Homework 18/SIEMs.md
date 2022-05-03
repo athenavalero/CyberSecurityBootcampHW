@@ -45,38 +45,39 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 
 1. Upload the following file of the system speeds around the time of the attack.
 
-  - Speed Test File
+    - Speed Test File
 
 
 
 2. Using the eval command, create a field called ratio that shows the ratio between the upload and download speeds.
 
-  - Hint: The format for creating a ratio is: | eval new_field_name = 'fieldA'  / 'fieldB'
+   - Hint: The format for creating a ratio is: | eval new_field_name = 'fieldA'  / 'fieldB'
 
 
 
 
 3. Create a report using the Splunk's table command to display the following fields in a statistics report:
 
-  - _time
-  - IP_ADDRESS
-  - DOWNLOAD_MEGABITS
-  - UPLOAD_MEGABITS
-  - ratio
+   - _time
+   - IP_ADDRESS
+   - DOWNLOAD_MEGABITS
+   - UPLOAD_MEGABITS
+   - ratio
 
-  Hint: Use the following format when for the table command: | table fieldA  fieldB fieldC
+   Hint: Use the following format when for the table command: | table fieldA  fieldB fieldC
 
 
 4. Answer the following questions:
 
-  - Based on the report created, what is the approximate date and time of the attack?
-  - How long did it take your systems to recover?
+   - Based on the report created, what is the approximate date and time of the attack?
+   - How long did it take your systems to recover?
 
 
 
 Submit a screen shot of your report and the answer to the questions above.
 
 #### Step 2: Are We Vulnerable?
+
 **Background**:  Due to the frequency of attacks, your manager needs to be sure that sensitive customer data on their servers is not vulnerable. Since Vandalay uses Nessus vulnerability scanners, you have pulled the last 24 hours of scans to see if there are any critical vulnerabilities.
 
   - For more information on Nessus, read the following link: https://www.tenable.com/products/nessus
@@ -101,7 +102,7 @@ Submit a screen shot of your report and the answer to the questions above.
 3. Build an alert that monitors every day to see if this server has any critical vulnerabilities. If a vulnerability exists, have an alert emailed to soc@vandalay.com.
 
 
-Submit a screenshot of your report and a screenshot of proof that the alert has been created.
+  Submit a screenshot of your report and a screenshot of proof that the alert has been created.
 
 #### Step 3: Drawing the (base)line
 **Background**:  A Vandaly server is also experiencing brute force attacks into their administrator account. Management would like you to set up monitoring to notify the SOC team if a brute force attack occurs again.
@@ -137,5 +138,5 @@ Submit the answers to the questions about the brute force timing, baseline and t
 #### Your Submission
 In a word document, provide the following:
 
-Answers to all questions where indicated.
-Screenshots where indicated.
+  - Answers to all questions where indicated.
+  - Screenshots where indicated.
