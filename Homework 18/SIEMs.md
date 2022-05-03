@@ -72,7 +72,7 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 
    - Based on the report created, what is the approximate date and time of the attack?
    
-        > Historically, upload speeds are significantly lower than download speeds. From the visualization graphs included in this report, we can see that at approximately 2:30PM on February 23, 2020 to about 11:30PM on the same day, the download speeds were lower than usual and has even almost reached the low levels of upload speeds. From the Speed Test table, we can also see that ratio of download speed against upload speed was at its highest of 0.233 at the same time which seems consistent with our visualization chart. This supports the fact that the attack started at time. 
+        > Historically, upload speeds are significantly lower than download speeds. From the visualization graphs included in this report, we can see that at approximately 2:30PM on February 23, 2020 to about 11:30PM on the same day, the download speeds were lower than usual and has even almost reached the low levels of upload speeds. From the Speed Test table, we can also see that ratio of download speed against upload speed was at its highest of 0.233 at the same time which seems consistent with our visualization chart. This supports the fact that the attack started at that time. 
         
    - How long did it take your systems to recover?
    
