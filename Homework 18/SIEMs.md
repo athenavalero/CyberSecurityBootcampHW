@@ -144,11 +144,11 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 
     ![bruteforce](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2018/HW18_10.png)
 
-        > While it appears that at around 8am on February 21, 2020, there is somewhat of a higher count of activity (34 events) than usual, it is not as a stronger indicator of an attack as the 124 events that happened at 9am on the same day. It ended around 1pm also on the same day (123 events), making the attack last for about 4 hours.  
+       > While it appears that at around 8am on February 21, 2020, there is somewhat of a higher count of activity (34 events) than usual, it is not as a stronger indicator of an attack as the 124 events that happened at 9am on the same day. It ended around 1pm also on the same day (123 events), making the attack last for about 4 hours.  
         
 3. Determine a baseline of normal activity and a threshold that would alert if a brute force attack is occurring.
 
-        > Even though I believe the attack was really prominent at 123-124 events, the higher than usual count of 34 should be enough to trigger an alert especially since the same count was detected around the same time that the brute force attack seems to have ended. This might be an indication that an attack is about to happen so I would set a baseline of 30 to set an alert, giving enough time for the team to look into a possible brute force attack at least an hour before (from this specific event) potential catastrophe from a full-blown brute force attack.
+       > Even though I believe the attack was really prominent at 123-124 events, the higher than usual count of 34 should be enough to trigger an alert especially since the same count was detected around the same time that the brute force attack seems to have ended. This might be an indication that an attack is about to happen so I would set a baseline of 30 to set an alert, giving enough time for the team to look into a possible brute force attack at least an hour before (from this specific event) potential catastrophe from a full-blown brute force attack.
 
 4. Design an alert to check the threshold every hour and email the SOC team at SOC@vandalay.com if triggered.
 
