@@ -22,6 +22,8 @@ Note: This is a public-facing windows server that VSI employees access.
 
 #### Question 1
 
+![windowsserver](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2019/HW19_1.PNG))
+
 Several users were impacted during the attack on March 25th.
 Based on the attack signatures, what mitigations would you recommend to protect each user account? Provide global mitigations that the whole company can use and individual mitigations that are specific to each user.
 
