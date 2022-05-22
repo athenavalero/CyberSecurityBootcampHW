@@ -27,7 +27,7 @@ Note: This is a public-facing windows server that VSI employees access.
 Several users were impacted during the attack on March 25th.
 Based on the attack signatures, what mitigations would you recommend to protect each user account? Provide global mitigations that the whole company can use and individual mitigations that are specific to each user.
 
-  - According to the Windows Server Monitoring Dashboard, the signatures that showed suspicious activity are: user account locked out, attempt made to reset an account’s password, and an account was successfully logged on. One possible solution to mitigate this is by setting up a dedicated VPN to be used by all the users in the company and setting up IP whitelisting. Doing so will ensure that even remote employees would have no issues accessing the server, and ensuring that those attempting to access the server outside of the VPN would not be able to do so. 
+  - According to the Windows Server Monitoring Dashboard, the signatures that showed suspicious activity are: *user account locked out*, *attempt made to reset an account’s password*, and *an account was successfully logged on*. One possible solution to mitigate this is by setting up a dedicated VPN to be used by all the users in the company and setting up IP whitelisting. Doing so will ensure that even remote employees would have no issues accessing the server, and ensuring that those attempting to access the server outside of the VPN would not be able to do so. 
 
 #### Question 2
 
