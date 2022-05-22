@@ -22,7 +22,7 @@ Note: This is a public-facing windows server that VSI employees access.
 
 #### Question 1
 
-![windowsserver](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2019/HW19_1.PNG))
+![windowsserver](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2019/HW19_1.PNG)
 
 Several users were impacted during the attack on March 25th.
 Based on the attack signatures, what mitigations would you recommend to protect each user account? Provide global mitigations that the whole company can use and individual mitigations that are specific to each user.
@@ -45,6 +45,10 @@ For example: "Block all incoming HTTP traffic where the source IP comes from the
 
 
 Provide a screen shot of the geographic map that justifies why you created this rule.
+
+![apache](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2019/HW19_2.PNG)
+
+![apache](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2019/HW19_2.5.PNG)
 
 
 #### Question 2
