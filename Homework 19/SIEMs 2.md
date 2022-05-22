@@ -34,6 +34,8 @@ Based on the attack signatures, what mitigations would you recommend to protect 
 VSI has insider information that JobeCorp attempted to target users by sending "Bad Logins" to lock out every user.
 What sort of mitigation could you use to protect against this?
 
+  - To protect the company against Brute Force attacks such as “Bad Logins”, setting up an Account Lockout policy is essential. For example, the user may be locked out after 3 attempts within 5 minutes and unlocking could only be done by a system administrator. To make it stronger, another mitigation strategy could be setting up multi-factor authentication.
+
 
 ### Part 2: Apache Webserver Attack:
 
@@ -44,7 +46,7 @@ Provide a "plain english" description of the rule.
 
 For example: "Block all incoming HTTP traffic where the source IP comes from the city of Los Angeles."
 
-
+  - According to the Apache WebServer Monitoring dashboard, the suspicious activity specifically came from the cities of Kiev (439) and Kharkiv (433) so a potential firewall rule could be: “Block all incoming HTTP traffic where the source IP comes from the cities of Kiev or Kharkiv in Ukraine.”
 Provide a screen shot of the geographic map that justifies why you created this rule.
 
 ![apache](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2019/HW19_2.PNG)
@@ -63,6 +65,8 @@ What other rules can you create to protect VSI from attacks against your webserv
 Conceive of two more rules in "plain english".
 Hint: Look for other fields that indicate the attacker.
 
+  - “Lock accounts that have failed login attempts of more than 3 in a span of 5 minutes.”
+  - Since there was a significant count of POST and GET requests (flooding), one way this could be mitigated is by setting up a web application firewall that could identify and track authentic source of traffic. The rule that could be set up would be: “Block all malicious traffic”
 
 
 
