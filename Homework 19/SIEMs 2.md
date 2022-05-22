@@ -47,6 +47,7 @@ Provide a "plain english" description of the rule.
 For example: "Block all incoming HTTP traffic where the source IP comes from the city of Los Angeles."
 
   - According to the Apache WebServer Monitoring dashboard, the suspicious activity specifically came from the cities of Kiev (439) and Kharkiv (433) so a potential firewall rule could be: “Block all incoming HTTP traffic where the source IP comes from the cities of Kiev or Kharkiv in Ukraine.”
+
 Provide a screen shot of the geographic map that justifies why you created this rule.
 
 ![apache](https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework%2019/HW19_2.PNG)
